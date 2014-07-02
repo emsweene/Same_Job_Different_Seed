@@ -1,0 +1,1 @@
+Rscript random_exponential.R $1
